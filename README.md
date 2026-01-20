@@ -91,20 +91,6 @@ Rather than treating AI as a replacement for artists, this study frames AI as a 
 - **Power BI** (data modeling & visualization)
 - **Excel** (survey export & master keys)
 
----
-
-## 📁 Repository Structure
-├── datasets/
-│ ├── AI&HumanArtworks/
-│ └── survey_responses/
-├── python_analysis/
-│ ├── analysis.ipynb
-├── powerbi/
-│ └── dashboards.pbix
-├── survey_scripts/
-│ └── google_apps_script.gs
-└── README.md
-
 
 ---
 
